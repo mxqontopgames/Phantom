@@ -1,3 +1,3 @@
 return {
-    ["KEY-TMOH-B88X2I"] = "C03F3AE4-50C6-46F7-A8DD-8F71116ED298",
+    ["KEY-TMOH-B88X2I"] = nil,
 }
