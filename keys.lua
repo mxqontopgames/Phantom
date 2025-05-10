@@ -1,3 +1,2 @@
 return {
-    ["KEY-BQ54-DYVSE2"] = ""012D88AC-E9B6-4BAF-95DB-833AE53056C9"",
 }
