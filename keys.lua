@@ -1,3 +1,3 @@
 return {
-    ["KEYLRYPM-4"] = {userId = 4, active = true},
+    ["KEY1CAQE-123123"] = {userId = 123123, active = true},
 }
