@@ -1,3 +1,3 @@
 return {
-    ["ABCRAV4A-124"] = {userId = 124, active = true},
+    ["ABC3V93B-1"] = {userId = 1, active = true},
 }
